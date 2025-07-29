@@ -54,9 +54,9 @@ body * {
 }
 
 #profile p {
-    font-weight: 500px:
+    font-weight: 500px;
     line-height: 24px;
-    martgin-top: 8px;
+    margin-top: 8px;
 }
 #switch {
     position: relative;
@@ -101,7 +101,6 @@ body * {
     border-radius: 9999px;
 }
 
-/*links*/
 ul {
     list-style: none;
     display: flex;
